@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    border-bottom: 2px solid black;
+}
+
+.card {
+    border: none;
+}
+
+.radius-15 {
+    border-radius: 15px;
+}
+
+.rounded-image {
+    border-radius: 15px 15px 0px 0px;
+}
